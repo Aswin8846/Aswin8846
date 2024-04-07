@@ -15,6 +15,9 @@
 
 - ⚡ Fun fact **I am a passionate and enthusiastic individual with a deep curiosity about the world and a commitment to continuous learning.**
 
+  <!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/b-a-aswin-b4a74525b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aswin balasubramanian" height="30" width="40" /></a>
