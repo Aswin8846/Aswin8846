@@ -16,7 +16,7 @@
 - ⚡ Fun fact **I am a passionate and enthusiastic individual with a deep curiosity about the world and a commitment to continuous learning.**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-24%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-24%20hrs%2038%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-304.9%20thousand%20lines%20of%20code-blue)
 
@@ -26,15 +26,14 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               2 hrs 2 mins        █████████████████░░░░░░░░   67.49 % 
-Java                     49 mins             ███████░░░░░░░░░░░░░░░░░░   27.39 % 
-Other                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
-Bash                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+Java                     26 mins             █████████████████████░░░░   82.89 % 
+Bash                     4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.62 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 11 mins       ██████████████████░░░░░░░   72.61 % 
-Intellijidea             49 mins             ███████░░░░░░░░░░░░░░░░░░   27.39 % 
+Intellijidea             26 mins             █████████████████████░░░░   82.89 % 
+VS Code                  5 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.11 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -50,7 +49,7 @@ SCSS                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 05/06/2024 18:40:57 UTC
+ Last Updated on 06/06/2024 18:40:56 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
