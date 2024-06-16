@@ -16,7 +16,21 @@
 - ⚡ Fun fact **I am a passionate and enthusiastic individual with a deep curiosity about the world and a commitment to continuous learning.**
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-28%20hrs%2011%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-304.9%20thousand%20lines%20of%20code-blue)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+Java                     1 hr 35 mins        █████████████████████████   100.00 % 
+
+🔥 Editors: 
+Intellijidea             1 hr 35 mins        █████████████████████████   100.00 % 
+```
 
 **I Mostly Code in JavaScript** 
 
@@ -31,7 +45,7 @@ SCSS                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 15/06/2024 18:40:15 UTC
+ Last Updated on 16/06/2024 18:40:30 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
