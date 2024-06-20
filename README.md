@@ -16,7 +16,7 @@
 - ⚡ Fun fact **I am a passionate and enthusiastic individual with a deep curiosity about the world and a commitment to continuous learning.**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-28%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-32%20hrs%2023%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-306.5%20thousand%20lines%20of%20code-blue)
 
@@ -26,10 +26,15 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Java                     1 hr 35 mins        █████████████████████████   100.00 % 
+JavaScript               3 hrs 26 mins       ████████████████████░░░░░   78.43 % 
+JSON                     31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
+Java                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
+HTML                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
+Git Config               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
 
 🔥 Editors: 
-Intellijidea             1 hr 35 mins        █████████████████████████   100.00 % 
+VS Code                  4 hrs 11 mins       ████████████████████████░   95.39 % 
+Intellijidea             12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -45,7 +50,7 @@ SCSS                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 19/06/2024 18:41:42 UTC
+ Last Updated on 20/06/2024 18:40:59 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
