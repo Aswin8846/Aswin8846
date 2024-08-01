@@ -18,7 +18,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-48%20hrs%2026%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-400.0%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-442.1%20thousand%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -35,17 +35,17 @@ No Activity Tracked This Week
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               9 repos             █████████████░░░░░░░░░░░░   52.94 % 
-Jupyter Notebook         2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
-HTML                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
-TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-SCSS                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+JavaScript               11 repos            ██████████████░░░░░░░░░░░   57.89 % 
+Jupyter Notebook         2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+HTML                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+SCSS                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
 ```
 
 
 
 
- Last Updated on 31/07/2024 18:42:59 UTC
+ Last Updated on 01/08/2024 18:42:19 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
