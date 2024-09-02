@@ -16,7 +16,7 @@
 - ⚡ Fun fact **I am a passionate and enthusiastic individual with a deep curiosity about the world and a commitment to continuous learning.**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-69%20hrs%2028%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-76%20hrs%208%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-490.3%20thousand%20lines%20of%20code-blue)
 
@@ -26,14 +26,14 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               6 hrs 32 mins       ███████████████████████░░   91.73 % 
-CSS                      33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+JavaScript               12 hrs 9 mins       █████████████████████████   98.70 % 
+CSS                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 7 mins        █████████████████████████   100.00 % 
+VS Code                  12 hrs 18 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -49,7 +49,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/09/2024 18:42:45 UTC
+ Last Updated on 02/09/2024 18:43:12 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
