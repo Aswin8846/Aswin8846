@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I'm Aswin</h1>
-<h3 align="center">Hello! I'm a second-year Computer Science and Engineering student at Chennai Institute of Technology, passionate about contributing to Open Source projects and embracing continuous learning. Excited to explore new opportunities and enhance my skills on this exciting journey! 🚀 Let's connect and create something amazing together! 👨‍💻 #OpenSource #LearningOnTheGo #TechEnthusiast</h3>
+<h3 align="center">Hello! I'm a Pre-Final Year Computer Science and Engineering student at Chennai Institute of Technology, passionate about contributing to Open Source projects and embracing continuous learning. Excited to explore new opportunities and enhance my skills on this exciting journey! 🚀 Let's connect and create something amazing together! 👨‍💻 #OpenSource #LearningOnTheGo #TechEnthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aswin8846&label=Profile%20views&color=0e75b6&style=flat" alt="aswin8846" /> </p>
 
