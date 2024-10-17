@@ -26,10 +26,10 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Java                     5 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ IDEA            5 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -45,7 +45,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 16/10/2024 18:46:28 UTC
+ Last Updated on 17/10/2024 18:46:25 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
