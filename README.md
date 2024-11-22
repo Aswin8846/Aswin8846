@@ -16,9 +16,9 @@
 - ⚡ Fun fact **I am a passionate and enthusiastic individual with a deep curiosity about the world and a commitment to continuous learning.**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-101%20hrs%2028%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-101%20hrs%2032%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-491.4%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-492.1%20thousand%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -26,15 +26,15 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Go                       4 hrs 23 mins       ████████████████░░░░░░░░░   62.37 % 
-C                        1 hr 7 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
-Java                     51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
-TypeScript               36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+Go                       2 hrs 7 mins        █████████████░░░░░░░░░░░░   51.74 % 
+C                        1 hr 7 mins         ███████░░░░░░░░░░░░░░░░░░   27.29 % 
+Java                     51 mins             █████░░░░░░░░░░░░░░░░░░░░   20.84 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 10 mins       ██████████████████████░░░   87.79 % 
-IntelliJ IDEA            51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
+VS Code                  3 hrs 15 mins       ████████████████████░░░░░   79.16 % 
+IntelliJ IDEA            51 mins             █████░░░░░░░░░░░░░░░░░░░░   20.84 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -50,7 +50,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 21/11/2024 18:48:28 UTC
+ Last Updated on 22/11/2024 18:48:27 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
