@@ -16,7 +16,7 @@
 - ⚡ Fun fact **I am a passionate and enthusiastic individual with a deep curiosity about the world and a commitment to continuous learning.**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-101%20hrs%2051%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-103%20hrs%2034%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-548.6%20thousand%20lines%20of%20code-blue)
 
@@ -26,10 +26,15 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     1 hr 34 mins        ███████████████████████░░   92.27 % 
+Lua                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
+Bash                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+Scheme                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Unknown Editor           1 hr 25 mins        █████████████████████░░░░   83.57 % 
+Neovim                   16 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.43 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -45,7 +50,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 19/01/2025 18:43:34 UTC
+ Last Updated on 20/01/2025 18:43:50 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
