@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **Web Development Projects**
 
-- 🌱 I’m currently learning **React,Express.js,MongoDB,Java with DSA**
+- 🌱 I’m currently learning **React,Express.js,MongoDB,Java with DSA and Golang**
 
-- 💬 Ask me about **react,Java etc.**
+- 💬 Ask me about **react,Java,Golang etc.**
 
 - 📫 How to reach me **aswinbala8846@gmail.com**
 
