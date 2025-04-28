@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aswin8846" alt="aswin8846" /></a> </p>
 
-- 🔭 I’m currently working on **Web Development Projects**
+- 🔭 I’m currently working on **System level programming.**
 
-- 🌱 I’m currently learning **React,Express.js,MongoDB,Java with DSA and Golang**
+- 🌱 I’m currently learning **Assembly, C and Embedded Systems.**
 
 - 💬 Ask me about **react,Java,Golang etc.**
 
