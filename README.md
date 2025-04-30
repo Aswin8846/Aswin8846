@@ -26,11 +26,10 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Assembly                 6 mins              █████████████████████████   98.18 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Neovim                   6 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -46,7 +45,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 29/04/2025 18:49:08 UTC
+ Last Updated on 30/04/2025 18:50:03 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
