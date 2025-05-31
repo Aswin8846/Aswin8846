@@ -26,12 +26,10 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Bash                     13 mins             ████████████████████████░   95.86 % 
-i3config                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
-zsh                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Neovim                   13 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -47,7 +45,7 @@ Assembly                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 30/05/2025 18:50:47 UTC
+ Last Updated on 31/05/2025 18:47:55 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
