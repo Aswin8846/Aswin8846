@@ -16,7 +16,7 @@
 - ⚡ Fun fact **I am a passionate and enthusiastic individual with a deep curiosity about the world and a commitment to continuous learning.**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-158%20hrs%2044%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-159%20hrs%2037%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-579.4%20thousand%20lines%20of%20code-blue)
 
@@ -26,10 +26,13 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               52 mins             █████████████████████████   99.49 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Neovim                   28 mins             ██████████████░░░░░░░░░░░   54.42 % 
+VS Code                  24 mins             ███████████░░░░░░░░░░░░░░   45.58 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -45,7 +48,7 @@ Assembly                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 21/09/2025 18:46:09 UTC
+ Last Updated on 22/09/2025 18:48:36 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
