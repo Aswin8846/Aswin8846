@@ -16,9 +16,9 @@
 - ⚡ Fun fact **I am a passionate and enthusiastic individual with a deep curiosity about the world and a commitment to continuous learning.**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-159%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-160%20hrs-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-575.5%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-579.9%20thousand%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -26,26 +26,26 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Ruby                     21 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  21 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               17 repos            ████████████░░░░░░░░░░░░░   47.22 % 
-Go                       5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
-Python                   3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-TypeScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-Assembly                 1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+Go                       5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
+Python                   3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
+TypeScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
+CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
+Assembly                 1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
 ```
 
 
 
 
- Last Updated on 13/11/2025 18:52:08 UTC
+ Last Updated on 15/11/2025 18:47:50 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
