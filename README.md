@@ -26,12 +26,10 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               59 mins             █████████████████████████   99.56 % 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  59 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -47,7 +45,7 @@ Assembly                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/11/2025 18:51:30 UTC
+ Last Updated on 27/11/2025 18:50:57 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
