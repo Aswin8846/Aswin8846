@@ -26,10 +26,10 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -45,7 +45,7 @@ Assembly                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 20/12/2025 18:49:16 UTC
+ Last Updated on 21/12/2025 18:51:11 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
